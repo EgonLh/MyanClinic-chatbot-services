@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = {extras = ["standard"], version = "*"}
+pillow = "*"
+pytesseract = "*"
+transformers = "*"
+sentence-transformers = "*"
+faiss-cpu = "*"
+requests = "*"
+python-dotenv = "*"
+pydantic = {extras = ["dotenv"], version = "*"}
+pydantic-settings = "*"
+rapidfuzz = "*"
+tesseract = "*"
+pathlib = "*"
+
+[dev-packages]
+pytest = "*"
+httpx = "*"
+
+[requires]
+python_version = "3.12"

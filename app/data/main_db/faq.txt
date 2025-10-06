@@ -1,0 +1,55 @@
+Question: What is Myan Clinic?
+Answer: Myan Clinic is a digital healthcare services platform that offers online appointment scheduling, secure medical record management, and reliable healthcare access for patients in Myanmar.
+Category: General
+
+Question: How do I reset my password?
+Answer: Click 'Forgot Password' on the login page and follow the instructions.
+Category: Account
+
+Question: How can I contact customer support?
+Answer: You can email support@myanclinic.com or call 09-12345678.
+Category: Support
+
+Question: How do I book an appointment online?
+Answer: Log in to your Myan Clinic account, go to Appointments, select your doctor, choose an available date/time, and confirm.
+Category: Appointments
+
+Question: Can I cancel or reschedule an appointment?
+Answer: Yes, log in to your account, open your Appointments page, and select Cancel or Reschedule.
+Category: Appointments
+
+Question: Are my medical records secure?
+Answer: Yes. Myan Clinic uses encrypted databases, JWT authentication, and role-based access control to protect patient data, in compliance with GDPR and NHS cybersecurity measures.
+Category: Records
+
+Question: How can I choose the right doctor?
+Answer: You can browse doctors by specialty, location, and availability. Each doctor has a profile with qualifications and ratings.
+Category: Doctors
+
+Question: Do you provide online consultations?
+Answer: Yes, Myan Clinic supports telemedicine via secure video calls.
+Category: Doctors
+
+Question: What technologies power Myan Clinic?
+Answer: The platform is built with Next.js, React, Redux, Nest.js, MongoDB, and Tailwind for scalability, performance, and security.
+Category: Technical
+
+Question: Can I use Myan Clinic on mobile?
+Answer: Yes, the platform is fully responsive and works on desktop and smartphones. A dedicated mobile app is coming soon.
+Category: Technical
+
+Question: How does Myan Clinic ensure ethical standards?
+Answer: All doctors follow medical ethics validation protocols, and the system follows British Computer Society (BCS) code of conduct.
+Category: Legal
+
+Question: What happens if the system fails?
+Answer: We maintain secure backups and recovery procedures to prevent data loss.
+Category: Legal
+
+Question: Is my data shared with third parties?
+Answer: No, your personal and medical data is never shared without your explicit consent.
+Category: Legal
+
+Question: Hello
+Answer: Myan Clinic is a digital healthcare services platform that offers online appointment scheduling, secure medical record management, and reliable healthcare access for patients in Myanmar.
+Category: General
